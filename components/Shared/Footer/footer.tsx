@@ -27,9 +27,6 @@ const Footer = () => {
           <a href="/posts" className="hover:text-gray-300 transition-colors">
             Posts
           </a>
-          <a href="/users" className="hover:text-gray-300 transition-colors">
-            Users
-          </a>
         </div>
 
         {/* Right side - Social Icons */}
